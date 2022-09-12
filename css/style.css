@@ -708,8 +708,8 @@ html {
 }
 
 .no-webp .started{
-  background: -o-linear-gradient(173.82deg, #6e28b1 0%, rgba(0, 0, 0, 0) 100%), #fc0a7e url(/img/Group.png);
-  background: linear-gradient(276.18deg, #6e28b1 0%, rgba(0, 0, 0, 0) 100%), #fc0a7e url(/img/Group.png); }
+  background: -o-linear-gradient(173.82deg, #6e28b1 0%, rgba(0, 0, 0, 0) 100%), #fc0a7e url(../img/Group.png);
+  background: linear-gradient(276.18deg, #6e28b1 0%, rgba(0, 0, 0, 0) 100%), #fc0a7e url(../img/Group.png); }
 
 .started__container {
   display: -webkit-box;
@@ -1188,4 +1188,4 @@ html {
 
 .webp .comments__phones{ background-image: url(../img/IMAGE.webp); }
 
-.webp .started{ background: -o-linear-gradient(173.82deg, #6e28b1 0%, rgba(0, 0, 0, 0) 100%), #fc0a7e url(/img/Group.webp); background: linear-gradient(276.18deg, #6e28b1 0%, rgba(0, 0, 0, 0) 100%), #fc0a7e url(/img/Group.webp); }
+.webp .started{ background: -o-linear-gradient(173.82deg, #6e28b1 0%, rgba(0, 0, 0, 0) 100%), #fc0a7e url(../img/Group.webp); background: linear-gradient(276.18deg, #6e28b1 0%, rgba(0, 0, 0, 0) 100%), #fc0a7e url(../img/Group.webp); }
